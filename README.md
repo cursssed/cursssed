@@ -37,11 +37,14 @@ We’re **Paradox**, a tight-knit team of engineers, designers, and crypto-enthu
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 We leverage an array of languages and platforms to ensure robust, scalable software. From containerized C# and Go microservices to Python-based automation scripts, we adapt to each project's needs with a meticulous engineering approach.
+
+<br>
+<br>
 
 ## 👥 Paradox Collective
 ```ts
